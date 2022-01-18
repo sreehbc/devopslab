@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Bay Main Store Experience</name>
+    <queueMembers>
+        <publicGroups>
+            <publicGroup>Bay_Digital</publicGroup>
+            <publicGroup>La_Baie_El_Salvador</publicGroup>
+            <publicGroup>La_Baie_Moncton</publicGroup>
+        </publicGroups>
+    </queueMembers>
+    <queueRoutingConfig>Bay_Main_Store_Experience</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>Case</sobjectType>
+    </queueSobject>
+</Queue>

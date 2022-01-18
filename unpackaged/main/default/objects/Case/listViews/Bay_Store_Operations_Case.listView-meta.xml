@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bay_Store_Operations_Case</fullName>
+    <filterScope>Queue</filterScope>
+    <label>Bay Store Operations</label>
+    <queue>Bay_Store_Operations</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>

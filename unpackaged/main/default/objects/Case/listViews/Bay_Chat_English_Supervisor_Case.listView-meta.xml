@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bay_Chat_English_Supervisor_Case</fullName>
+    <filterScope>Queue</filterScope>
+    <label>Bay Chat Supervisor</label>
+    <queue>Bay_Chat_English_Supervisor</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>
